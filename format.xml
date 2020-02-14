@@ -145,6 +145,7 @@
     <option name="FROM_EL_COMMA" value="1" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="EXPR_SPACE_AROUND_OPERATOR" value="2" />
+    <option name="EXPR_BINARY_OP_ALIGN" value="false" />
     <option name="EXPR_CASE_WHEN_INDENT" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="EXPR_CASE_THEN_ALIGN" value="true" />

@@ -6,12 +6,12 @@ from
     join target t1 on t.no=t1.no
 where
     (
-            (no>0 and no<10)
-            or no>11
+        (no>0 and no<10)
+                or no>11
         )
     and updated_at>'2020-03-01'
     and (
-        premium=1
-        or manager=1
+    premium=1
+            or manager=1
     )
 ;
